@@ -1,5 +1,6 @@
 ﻿# Can you get the loop? `5kyu`
-https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/train/csharp
+https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/train/csharp  
+[![Generic badge](https://img.shields.io/badge/status-failed-red.svg)](https://shields.io/)
 
 **NOT SOLVED: tests passed, attempt failed "Execution Timed Out (12000 ms)"**
 

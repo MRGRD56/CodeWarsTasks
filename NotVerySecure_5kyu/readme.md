@@ -1,5 +1,6 @@
 ﻿# Not very secure `5kyu`
-https://www.codewars.com/kata/526dbd6c8c0eb53254000110/train/csharp
+https://www.codewars.com/kata/526dbd6c8c0eb53254000110/train/csharp  
+[![Generic badge](https://img.shields.io/badge/status-solved-green.svg)](https://shields.io/)
 
 In this example you have to validate if a user input string is alphanumeric. The given string is not nil/null/NULL/None, so you don't have to check that.
 

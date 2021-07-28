@@ -1,5 +1,6 @@
 ﻿# Human readable duration format `4kyu`
-https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/csharp
+https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/csharp  
+[![Generic badge](https://img.shields.io/badge/status-solved-green.svg)](https://shields.io/)
 
 Your task in order to complete this Kata is to write a function which formats a duration, given as a number of seconds, in a human-friendly way.
 
