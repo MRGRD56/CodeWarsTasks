@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace HumanReadableDurationFormat
+namespace HumanReadableDurationFormat_4kyu
 {
     public static class HumanTimeFormat
     {

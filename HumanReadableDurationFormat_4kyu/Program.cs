@@ -1,7 +1,6 @@
-﻿//https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/csharp
-using System;
+﻿using System;
 
-namespace HumanReadableDurationFormat
+namespace HumanReadableDurationFormat_4kyu
 {
     internal static class Program
     {
