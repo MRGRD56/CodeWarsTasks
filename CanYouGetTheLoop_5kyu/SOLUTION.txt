@@ -1,0 +1,28 @@
+﻿//Not solved (see readme.md)
+
+using System.Collections.Generic;
+using System.Linq;
+
+public static class Kata
+{
+    public static int getLoopSize(LoopDetector.Node startNode)
+    {
+        var previousNodes = new List<LoopDetector.Node>(5000);
+        var currentNode = startNode;
+        while (true)
+        {
+            var nextNode = currentNode?.next;
+            if (nextNode == null) break;
+
+            if (previousNodes.Contains(nextNode))
+            {
+                return previousNodes.Count - previousNodes.IndexOf(nextNode);
+            }
+                
+            previousNodes.Add(nextNode);
+            currentNode = nextNode;
+        }
+
+        return 0;
+    }
+}

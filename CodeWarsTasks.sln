@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanReadableDurationFormat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotVerySecure_5kyu", "NotVerySecure_5kyu\NotVerySecure_5kyu.csproj", "{A079A786-DD14-42B6-A2FF-E5A011FEA109}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanYouGetTheLoop_5kyu", "CanYouGetTheLoop_5kyu\CanYouGetTheLoop_5kyu.csproj", "{0F87982C-B4CB-4768-B2E4-162F543F48EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{A079A786-DD14-42B6-A2FF-E5A011FEA109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A079A786-DD14-42B6-A2FF-E5A011FEA109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A079A786-DD14-42B6-A2FF-E5A011FEA109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F87982C-B4CB-4768-B2E4-162F543F48EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F87982C-B4CB-4768-B2E4-162F543F48EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F87982C-B4CB-4768-B2E4-162F543F48EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F87982C-B4CB-4768-B2E4-162F543F48EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
