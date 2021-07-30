@@ -1,0 +1,9 @@
+{
+    "name": "multiplies-of-3-or-5_6kyu",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "tsc && node index.js"
+    },
+    "dependencies": {
+    }
+}
