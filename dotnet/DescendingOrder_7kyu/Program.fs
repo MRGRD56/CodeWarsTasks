@@ -1,6 +1,6 @@
 ﻿open System
 
-let descendingOrder n =
+let descendingOrder (n: int) =
     n.ToString()
     |> Seq.sortDescending
     |> Seq.toArray
@@ -11,5 +11,7 @@ let descendingOrder n =
 // TESTING
 [<EntryPoint>]
 let main _ =
-    printfn "%d" <| descendingOrder 18379
+    seq {18379; 9102; 1387; 1234; 4329}
+    |> Seq.map descendingOrder
+    |> Seq.iter (printfn "%d")
     0
