@@ -11,5 +11,5 @@ let descendingOrder n =
 // TESTING
 [<EntryPoint>]
 let main _ =
-    printfn "%d" (descendingOrder 18379)
+    printfn "%d" <| descendingOrder 18379
     0
