@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="079f7eab-5a4c-48dc-a2d0-212127fd621d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/who_likes_it_6kyu/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/who_likes_it_6kyu/readme.md" afterDir="false" />
+    <list default="true" id="079f7eab-5a4c-48dc-a2d0-212127fd621d" name="Changes" comment="wqe">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/who_likes_it_6kyu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/who_likes_it_6kyu/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodeWarsTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeWarsTasks.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,23 +19,23 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DAW1rOCQlSKg9tVHFTFw2JkRT3" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "app.teamhub.trackedBranches": "-18irk3q/master",
-    "last_opened_file_path": "C:/Users/SU/IdeaProjects/CodeWarsTasks/java/who_likes_it_6kyu",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;app.teamhub.trackedBranches&quot;: &quot;-18irk3q/master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SU/IdeaProjects/CodeWarsTasks/java/who_likes_it_6kyu&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SU\IdeaProjects\CodeWarsTasks\java\who_likes_it_6kyu" />
@@ -48,7 +50,16 @@
       <option name="presentableId" value="Default" />
       <updated>1660142158387</updated>
       <workItem from="1660142159944" duration="322000" />
+      <workItem from="1660145022442" duration="171000" />
     </task>
+    <task id="LOCAL-00001" summary="wqe">
+      <created>1660145037217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660145037217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wqe" />
+    <option name="LAST_COMMIT_MESSAGE" value="wqe" />
   </component>
 </project>
